@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android控件</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+	<!--顶部导航栏标题  -->
+	<string name="activity_main_introduce">项目说明</string>
+	<string name="activity_main_custon_textview">自定义TextView</string>
+	<string name="activity_main_custom_button">自定义Button</string>
+</resources>
